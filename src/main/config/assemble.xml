@@ -29,8 +29,9 @@
 		<dependencySet>
 			<includes>
 				<include>com.vividsolutions:jts</include>
+				<include>org.n52.geoprocessing:javaps-jts-backend</include>
 			</includes>
-			<outputDirectory>deploy-to-wps</outputDirectory>
+			<outputDirectory>deploy-to-javaps</outputDirectory>
 		</dependencySet>
 	</dependencySets>
 </assembly>
