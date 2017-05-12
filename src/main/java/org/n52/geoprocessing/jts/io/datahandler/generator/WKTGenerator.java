@@ -21,13 +21,13 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import org.n52.geoprocessing.jts.io.data.binding.complex.JTSGeometryBinding;
-import org.n52.iceland.ogc.wps.Format;
 import org.n52.javaps.annotation.Properties;
 import org.n52.javaps.description.TypedProcessOutputDescription;
 import org.n52.javaps.io.AbstractPropertiesInputOutputHandler;
 import org.n52.javaps.io.Data;
 import org.n52.javaps.io.EncodingException;
 import org.n52.javaps.io.OutputHandler;
+import org.n52.shetland.ogc.wps.Format;
 
 import com.vividsolutions.jts.geom.Geometry;
 import com.vividsolutions.jts.io.WKTWriter;

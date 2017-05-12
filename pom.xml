@@ -75,9 +75,9 @@
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>org.n52.wps</groupId>
-			<artifactId>iceland-wps</artifactId>
-			<version>1.0.0-SNAPSHOT</version>
+			<groupId>org.n52.shetland</groupId>
+			<artifactId>shetland</artifactId>
+			<version>1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.vividsolutions</groupId>

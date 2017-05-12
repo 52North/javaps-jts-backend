@@ -21,13 +21,13 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 import org.n52.geoprocessing.jts.io.data.binding.complex.JTSGeometryBinding;
-import org.n52.iceland.ogc.wps.Format;
 import org.n52.javaps.annotation.Properties;
 import org.n52.javaps.description.TypedProcessInputDescription;
 import org.n52.javaps.io.AbstractPropertiesInputOutputHandler;
 import org.n52.javaps.io.Data;
 import org.n52.javaps.io.DecodingException;
 import org.n52.javaps.io.InputHandler;
+import org.n52.shetland.ogc.wps.Format;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
