@@ -1,3 +1,33 @@
+<<<<<<< HEAD
+######################
+# Project Specific
+######################
+/build/www/**
+/src/test/javascript/coverage/
+/src/test/javascript/PhantomJS*/
+
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+
+######################
+# SASS
+######################
+.sass-cache/
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+tmp/
+tmp/**/*
+=======
 ### https://raw.github.com/github/gitignore/master/Java.gitignore
 
 *.class
@@ -44,11 +74,22 @@ nb-configuration.xml
 .gradle
 bin/
 tmp/
+>>>>>>> forked/master
 *.tmp
 *.bak
 *.swp
 *~.nib
 local.properties
+<<<<<<< HEAD
+.classpath
+.settings/
+.loadpath
+.factorypath
+/src/main/resources/rebel.xml
+
+# External tool builders
+.externalToolBuilders/**
+=======
 .settings/
 .loadpath
 
@@ -57,6 +98,7 @@ local.properties
 
 # External tool builders
 .externalToolBuilders/
+>>>>>>> forked/master
 
 # Locally stored "Eclipse launch configurations"
 *.launch
@@ -64,6 +106,51 @@ local.properties
 # CDT-specific
 .cproject
 
+<<<<<<< HEAD
+# PDT-specific
+.buildpath
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Visual Studio Code
+######################
+.vscode/
+
+######################
+# Maven
+######################
+/log/
+/target/
+
+######################
+# Gradle
+######################
+.gradle/
+/build/
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+=======
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
@@ -82,10 +169,18 @@ local.properties
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+>>>>>>> forked/master
 
 # Folder config file
 Desktop.ini
 
+<<<<<<< HEAD
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+=======
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -119,10 +214,50 @@ $RECYCLE.BIN/
 # Icon must end with two \r
 Icon
 
+>>>>>>> forked/master
 
 # Thumbnails
 ._*
 
+<<<<<<< HEAD
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Directories
+######################
+/bin/
+/deploy/
+
+######################
+# Logs
+######################
+*.log
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
+
+######################
+# Gradle Wrapper
+######################
+!gradle/wrapper/gradle-wrapper.jar
+
+######################
+# Maven Wrapper
+######################
+!.mvn/wrapper/maven-wrapper.jar
+
+######################
+# ESLint
+######################
+.eslintcache
+=======
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
@@ -145,3 +280,4 @@ logs/
 *.iml
 
 webapp/.factorypath
+>>>>>>> forked/master
