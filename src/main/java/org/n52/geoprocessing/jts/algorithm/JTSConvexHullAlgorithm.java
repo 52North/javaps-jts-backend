@@ -16,13 +16,13 @@
  */
 package org.n52.geoprocessing.jts.algorithm;
 
+import org.locationtech.jts.geom.Geometry;
 import org.n52.geoprocessing.jts.io.data.binding.complex.JTSGeometryBinding;
 import org.n52.javaps.algorithm.annotation.Algorithm;
 import org.n52.javaps.algorithm.annotation.ComplexInput;
 import org.n52.javaps.algorithm.annotation.ComplexOutput;
 import org.n52.javaps.algorithm.annotation.Execute;
 
-import com.vividsolutions.jts.geom.Geometry;
 
 /**
  * This algorithm creates a convex hull of a JTS geometry using build the in method.

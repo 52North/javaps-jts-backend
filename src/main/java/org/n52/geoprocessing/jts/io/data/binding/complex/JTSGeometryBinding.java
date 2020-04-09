@@ -18,7 +18,7 @@ package org.n52.geoprocessing.jts.io.data.binding.complex;
 
 import org.n52.javaps.io.complex.ComplexData;
 
-import com.vividsolutions.jts.geom.Geometry;
+import org.locationtech.jts.geom.Geometry;
 
 /**
  * This class wraps a JTS Geometry.

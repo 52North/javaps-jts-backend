@@ -29,8 +29,8 @@ import org.n52.javaps.io.EncodingException;
 import org.n52.javaps.io.OutputHandler;
 import org.n52.shetland.ogc.wps.Format;
 
-import com.vividsolutions.jts.geom.Geometry;
-import com.vividsolutions.jts.io.WKTWriter;
+import org.locationtech.jts.geom.Geometry;
+import org.locationtech.jts.io.WKTWriter;
 
 /**
  * This class generates a String representation out of a JTS Geometry.

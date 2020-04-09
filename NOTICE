@@ -23,33 +23,39 @@ This project includes:
   52°North javaPS Processing API Implementation under The Apache Software License, Version 2.0
   52°North Shetland under The Apache Software License, Version 2.0
   52°North Svalbard Core under The Apache Software License, Version 2.0
-  Animal Sniffer Annotations under MIT license
   Apache Commons Codec under Apache License, Version 2.0
   Apache Commons Configuration under Apache License, Version 2.0
-  Apache Commons Lang under The Apache Software License, Version 2.0
+  Apache Commons IO under Apache License, Version 2.0
+  Apache Commons Lang under Apache License, Version 2.0
   Apache Commons Logging under The Apache Software License, Version 2.0
   Apache HttpClient under Apache License, Version 2.0
   Apache HttpCore under Apache License, Version 2.0
+  c3p0 under GNU Lesser General Public License, Version 2.1 or Eclipse Public License, Version 1.0
+  Checker Qual under The MIT License
   Commons Lang under The Apache Software License, Version 2.0
   error-prone annotations under Apache 2.0
   EXIficient under MIT License
   EXIficient-Core under MIT License
   EXIficient-Grammars under MIT License
   FindBugs-jsr305 under The Apache Software License, Version 2.0
-  Guava: Google Core Libraries for Java under The Apache Software License, Version 2.0
+  Guava InternalFutureFailureAccess and InternalFutures under The Apache Software License, Version 2.0
+  Guava ListenableFuture only under The Apache Software License, Version 2.0
+  Guava: Google Core Libraries for Java under Apache License, Version 2.0
+  HikariCP under The Apache Software License, Version 2.0
   J2ObjC Annotations under The Apache Software License, Version 2.0
   Jackson-annotations under The Apache Software License, Version 2.0
-  Jackson-core under The Apache Software License, Version 2.0
   jackson-databind under The Apache Software License, Version 2.0
   Java Architecture for XML Binding under CDDL 1.1 or GPL2 w/ CPE
   JavaBeans(TM) Activation Framework under COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
   javaPS JTS process repository under The Apache Software License, Version 2.0
   javax.inject under The Apache Software License, Version 2.0
   JCL 1.2 implemented over SLF4J under MIT License
-  JTS Topology Suite under Lesser General Public License (LGPL)
-  Old JAXB Core under CDDL+GPL License
-  Old JAXB Runtime under CDDL+GPL License
+  Joda-Time under Apache License, Version 2.0
+  mchange-commons-java under GNU Lesser General Public License, Version 2.1 or Eclipse Public License, Version 1.0
+  Old JAXB Core under CDDL 1.1 or GPL2 w/ CPE
+  Old JAXB Runtime under CDDL 1.1 or GPL2 w/ CPE
   org.locationtech.jts:jts-core under Eclipse Publish License, Version 1.0 or Eclipse Distribution License - v 1.0
+  quartz under The Apache Software License, Version 2.0
   SLF4J API Module under MIT License
   Spring AOP under Apache License, Version 2.0
   Spring Beans under Apache License, Version 2.0
